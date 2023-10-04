@@ -13,6 +13,8 @@ fun NBAApp(){
         val navacciones = remember(navegation){
             NBAacciones(navegation)
         }
+
+        NBANavGraph()
     }
 }
 
