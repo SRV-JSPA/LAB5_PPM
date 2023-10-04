@@ -1,4 +1,4 @@
-package com.example.lab5ppm
+package com.example.lab5ppm.ui.theme
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
